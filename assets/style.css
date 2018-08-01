@@ -32,3 +32,10 @@ background: url(images/<?php echo $selectedBg; ?>) no-repeat;
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+h3:hover{
+	background-color: #7cccd085;
+}
+
+
+img{margin-left:15px;}
